@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "rd-id-check",
+    "nombre": "RD ID Check",
+    "tipo": "cli",
+    "lema": "Validate and format Dominican cédulas and RNCs offline.",
+    "lema_es": "Valida y da formato a cédulas y RNC dominicanos sin conexión.",
+    "fecha": "2026-10-26"
+  }
+]
