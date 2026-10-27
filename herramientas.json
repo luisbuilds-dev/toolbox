@@ -6,5 +6,13 @@
     "lema": "Validate and format Dominican cédulas and RNCs offline.",
     "lema_es": "Valida y da formato a cédulas y RNC dominicanos sin conexión.",
     "fecha": "2026-10-26"
+  },
+  {
+    "slug": "video-engineer",
+    "nombre": "Video Engineer",
+    "tipo": "kit",
+    "lema": "Your video editing engineer for Claude Code: Reels and YouTube",
+    "lema_es": "Tu editor de vídeo dentro de Claude Code: Reels y YouTube",
+    "fecha": "2026-10-26"
   }
 ]
